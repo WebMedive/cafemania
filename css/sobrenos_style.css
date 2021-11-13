@@ -1,0 +1,24 @@
+.menu a{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.titulo{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    color: #494444;
+}
+
+.dona{
+    float: left;
+    padding-left: 117px;
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
